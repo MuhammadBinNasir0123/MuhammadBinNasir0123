@@ -22,7 +22,7 @@ Open to new opportunities. Reach me through the links below.
 
 **Data Analysis:** [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)](https://github.com/MuhammadBinNasir0123/SQL-Product-Sales-Analysis/blob/main/images/04-revenue-by-region.png) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/MuhammadBinNasir0123/RFM-Analysis/blob/main/images/01-segments-and-key-metrics.png) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/MuhammadBinNasir0123/RFM-Analysis/blob/main/images/01-segments-and-key-metrics.png)
 
-**Automation & AI:** [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://github.com/MuhammadBinNasir0123/AI-Sales-Data-Analyst/blob/main/images/01-n8n-workflow.png) ![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-555555?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+**Automation & AI:** [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://github.com/MuhammadBinNasir0123/AI-Sales-Data-Analyst/blob/main/images/01-n8n-workflow.png) ![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-555555?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Research:** Systematic literature review · TabPFN · Data synthesis
 
