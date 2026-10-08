@@ -26,7 +26,7 @@ Open to new opportunities. Reach me through the links below.
 
 **Geospatial:** [![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)](https://github.com/MuhammadBinNasir0123/Flood-Risk-Mapping-Sentinel-1-SAR-Data) [![Sentinel-1 SAR](https://img.shields.io/badge/Sentinel--1_SAR-0B3D91?style=flat-square)](https://github.com/MuhammadBinNasir0123/Flood-Risk-Mapping-Sentinel-1-SAR-Data)
 
-**Research:** ![Literature Review](https://img.shields.io/badge/Systematic_Literature_Review-2E8B57?style=flat-square) ![TabPFN](https://img.shields.io/badge/TabPFN-C2185B?style=flat-square) ![Data Synthesis](https://img.shields.io/badge/Data_Synthesis-FF8C00?style=flat-square)
+**Research:**  Systematic literature review · TabPFN · Data synthesis
 
 ---
 
