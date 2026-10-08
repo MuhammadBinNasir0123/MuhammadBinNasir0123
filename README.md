@@ -30,5 +30,5 @@ Open to new opportunities. Reach me through the links below.
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadbinnasir0123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=muhammadbinnasir0123@gmail.com&su=Hello%20Muhammad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadbinnasir/)
